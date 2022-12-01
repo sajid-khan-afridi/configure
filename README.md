@@ -1,4 +1,4 @@
-# Guideline for all the typescript-node-projects(Part-1)
+# Guideline for all the typescript-node-projects
  
  ## Step#1: create a file ".gitignore"
  write **node_modules** in .gitignore file
