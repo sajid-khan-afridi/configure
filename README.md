@@ -44,7 +44,7 @@ commands:
 tsc
 node index.js
 
-##Step#9: Publish to npm
+## Step#9: Publish to npm
 commands:
 npm publish
 npx packageName
