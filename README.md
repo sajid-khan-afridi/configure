@@ -24,7 +24,8 @@ Make the following changes in "package.json"
 
 ## Step#4: Install dependencies
     npm i inquirer chalk chalk-animation figlet gradient-string
-    node_modules folder will be created
+    
+node_modules folder will be created
 
 ## Step#5:  Install "devDependencies" means developer dependencies
     npm i @types/chalk @types/chalk-animation @types/figlet @types/gradient-string @types/inquirer @types/node -D
