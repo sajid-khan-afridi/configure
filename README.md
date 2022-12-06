@@ -2,8 +2,8 @@
  
  ## Step#1 Install Node.js from https://nodejs.org/
  
- ##Step#2 Install TypeScript 4.9+ using Node Package Manager command (https://www.typescriptlang.org/download):
- ``npm install -g typescript``
+ ## Step#2 Install TypeScript 4.9+ using Node Package Manager command (https://www.typescriptlang.org/download):
+ ```npm install -g typescript```
  
  ## Step#3: create a file ".gitignore"
  write **node_modules** in .gitignore file
